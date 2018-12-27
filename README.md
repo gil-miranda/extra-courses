@@ -4,9 +4,10 @@ A ideia deste repositório é organizar os materiais de cursos relacionados a Co
 
 
 #### Cursos Completados
-[x] Jekyll
+- [x] Jekyll
 
 #### Cursos em Andamento
-[25%] Machine Learning pre-requisites - The Numpy Stack
+- [25%] Machine Learning pre-requisites - The Numpy Stack
+- [5%] Machine Learning A to Z - Python and R for Machine Learning
 
 #### Cusos já adquiridos ou em vista de serem feitos
