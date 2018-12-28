@@ -4,10 +4,13 @@ A ideia deste repositório é organizar os materiais de cursos relacionados a Co
 
 
 #### Cursos Completados
-- [x] Jekyll
+> - [x] Criando sites estáticos com Jekyll
+  > Autor: Willian Justen
+  > Carga Horária: 2hrs
+  > Sem certificado
 
 #### Cursos em Andamento
-- [25%] Machine Learning pre-requisites - The Numpy Stack
+- [50%] Machine Learning pre-requisites - The Numpy Stack
 - [5%] Machine Learning A to Z - Python and R for Machine Learning
 
 #### Cusos já adquiridos ou em vista de serem feitos
