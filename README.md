@@ -1,5 +1,5 @@
 ## Cursos extras
-A ideia deste repositório é organizar os materiais de cursos relacionados a Computação Cientifica, Matemática Computacional, e Computação que eu fizer como cursos extras, em seminários, sites onlines e eventos presenciais que não sejam da grade da universidade.
+A ideia deste repositório é organizar os materiais e manter um tracking de cursos relacionados a Computação Cientifica, Matemática Computacional, e Computação que eu fizer como cursos extras, em seminários, sites onlines e eventos presenciais que não sejam da grade da universidade.
 
 
 
