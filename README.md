@@ -4,9 +4,9 @@ A ideia deste repositório é organizar os materiais de cursos relacionados a Co
 
 
 #### Cursos Completados
-> - [x] Criando sites estáticos com Jekyll
-  > Autor: Willian Justen
-  > Carga Horária: 2hrs
+> - [x] Criando sites estáticos com Jekyll <br>
+  > Autor: Willian Justen <br>
+  > Carga Horária: 2hrs<br>
   > Sem certificado
 
 #### Cursos em Andamento
