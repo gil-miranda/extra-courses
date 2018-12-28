@@ -5,7 +5,7 @@ A ideia deste repositório é organizar os materiais de cursos relacionados a Co
 
 #### Cursos Completados
 > - [x] Criando sites estáticos com Jekyll <br>
-  > Local: Udemy
+  > Local: Udemy <br>
   > Autor: Willian Justen <br>
   > Carga Horária: 2hrs<br>
   > Sem certificado
