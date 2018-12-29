@@ -10,8 +10,13 @@ A ideia deste repositório é organizar os materiais e manter um tracking de cur
   > Carga Horária: 2hrs<br>
   > Sem certificado
 
+> - [x] Machine Learning Pre-Requisites - The Numpy Stack <br>
+  > Local: Udemy <br>
+  > Autor: Lazy Programmer Inc. <br>
+  > Carga Horária: 3,5hrs<br>
+  > Sem certificado
+
 #### Cursos em Andamento
-- [50%] Machine Learning pre-requisites - The Numpy Stack
 - [5%] Machine Learning A to Z - Python and R for Machine Learning
 
 #### Cusos já adquiridos ou em vista de serem feitos
