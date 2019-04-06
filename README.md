@@ -17,7 +17,7 @@ A ideia deste repositório é organizar os materiais e manter um tracking de cur
   > Sem certificado
 
 #### Cursos em Andamento
-- [5%]  Machine Learning A to Z - Python and R for Machine Learning
+- [05%] Machine Learning A to Z - Python and R for Machine Learning
 - [30%] The Python Mega Course - Build 10 Real World Applications
 
 #### Cusos já adquiridos ou em vista de serem feitos
