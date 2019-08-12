@@ -1,0 +1,3 @@
+/home/zoso/repos/extra-courses/udemy-cpp/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/zoso/repos/extra-courses/udemy-cpp/cmake-build-debug/CMakeFiles/udemy_cpp.dir
+/home/zoso/repos/extra-courses/udemy-cpp/cmake-build-debug/CMakeFiles/edit_cache.dir
